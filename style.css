@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    /* background-color: darkturquoise; */
+
+    background: rgb(9,9,121);
+    background: radial-gradient(circle, rgba(9,9,121,0.6251324152542372) 0%, rgba(1,71,109,0.9132680084745762) 46%, rgba(3,7,155,1) 76%);
+    place-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-family: roboto, sans-serif; 
+    font-size: 3em;
+
+}
